@@ -1,8 +1,9 @@
 # Find claimable roblox groups
 
-### ismaiwz#7045
-This is NODEJS group finder for roblox.
+### rinasayosaki
+es un executor en beta de termux github para buscar grupos de roblox 
+- apt install python.
+- apt install update && upgrade -y
+-  pip install -r requirements.txt.
 
-- Replace YOUR_WEBHOOK_URL with your webhook url.
-
-```npm i axios || node main.js```
+``` python index.py <webhook_link> ```
