@@ -8,4 +8,4 @@ es un executor en beta de termux github para buscar grupos de roblox
 - cd roblox-group-finder-2023
 -  pip install -r requirements.txt.
 
-``` python index.py <webhook_link> ```
+``` python main.js <webhook_link> ```
